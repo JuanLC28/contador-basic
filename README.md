@@ -1,8 +1,15 @@
-# React + Vite
+# Contador Simple con React y Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto simple de un contador hecho con **React** y **Tailwind CSS**. La aplicación permite incrementar, decrementar y resetear el contador utilizando botones.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Incrementar**: Botón para aumentar el valor del contador.
+- **Decrementar**: Botón para disminuir el valor del contador.
+- **Resetear**: Botón para restablecer el contador a cero.
+- **Interfaz limpia y estilizada**: Uso de **Tailwind CSS** para estilos rápidos y responsivos.
+
+## Tecnologías utilizadas
+
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario.
+- **Tailwind CSS**: Framework de CSS para diseño responsivo y utilitario.
